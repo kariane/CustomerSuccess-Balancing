@@ -55,6 +55,5 @@ Para este exemplo o retorno deve ser 1, que é o id do CS que atende 4 clientes:
 No terminal, execute os comandos:
 
 ```
-cd ruby
 ruby customer_success_balancing.rb
 ```
